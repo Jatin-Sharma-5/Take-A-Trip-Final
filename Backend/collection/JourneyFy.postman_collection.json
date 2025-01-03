@@ -1005,9 +1005,9 @@
 									]
 								},
 								"url": {
-									"raw": "localhost:8000/hotel/room/update",
+									"raw": "https://take-a-trip-final-backend.onrender.com/hotel/room/update",
 									"host": [
-										"localhost"
+										"https://take-a-trip-final-backend.onrender.com"
 									],
 									"port": "8000",
 									"path": [
@@ -1241,9 +1241,9 @@
 									]
 								},
 								"url": {
-									"raw": "localhost:8000/customer/changePassword",
+									"raw": "https://take-a-trip-final-backend.onrender.com/customer/changePassword",
 									"host": [
-										"localhost"
+										"https://take-a-trip-final-backend.onrender.com"
 									],
 									"port": "8000",
 									"path": [
@@ -1587,9 +1587,9 @@
 									]
 								},
 								"url": {
-									"raw": "localhost:8000/customer/booking/add",
+									"raw": "https://take-a-trip-final-backend.onrender.com/customer/booking/add",
 									"host": [
-										"localhost"
+										"https://take-a-trip-final-backend.onrender.com"
 									],
 									"port": "8000",
 									"path": [
