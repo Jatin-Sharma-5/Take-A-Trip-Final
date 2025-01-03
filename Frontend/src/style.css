@@ -1,0 +1,10 @@
+#box{
+    height: 200px;
+    width: 200px;
+    background-color: blueviolet;
+    border: 2px solid black;
+}
+
+img{
+    height: 100px;
+}
