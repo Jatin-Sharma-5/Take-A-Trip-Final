@@ -1,6 +1,6 @@
 import axios from "axios"
 import * as qs from "qs"
-export const BASE_URL="http://localhost:8000/"
+export const BASE_URL="https://take-a-trip-final-backend.onrender.com"
 export const styleObj={
     display:"block",
     margin:"10vh auto"
